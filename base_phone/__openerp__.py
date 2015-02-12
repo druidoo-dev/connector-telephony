@@ -81,6 +81,7 @@ for any help or question about this module.
         ],
     'qweb': ['static/src/xml/*.xml'],
     'demo': ['base_phone_demo.xml'],
+    'test': ['test/phonenum.yml'],
     'images': [],
     'installable': True,
 }
