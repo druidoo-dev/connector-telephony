@@ -45,7 +45,6 @@
         'static/lib/js/*.js',
         ],
     'qweb': ['static/src/xml/*.xml'],
-    'test': ['test/phonenum.yml'],
     'images': [],
     'installable': True,
 }
