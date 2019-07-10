@@ -19,15 +19,8 @@
         'views/res_config_settings.xml',
         'views/res_users_view.xml',
         'wizard/reformat_all_phonenumbers_view.xml',
-
-        ],
-    'js': [
-        'static/src/js/*.js',
-        'static/lib/js/*.js',
-=======
         'wizard/number_not_found_view.xml',
         'views/web_phone.xml',
->>>>>>> Port to v12 base_phone, asterisk_click2dial, crm_phone, hr_phone, event_phone and hr_recruitment_phone
         ],
     'qweb': ['static/src/xml/phone.xml'],
     'images': [],
